@@ -14,7 +14,7 @@ Live at [tasmi.cloud](https://tasmi.cloud).
 
 ---
 
-## What it does
+## Features
 
 - **Seven-stage memorization challenges** that take a new portion from first read to long-term retention
 - **Anki-style review deck** for spaced revision of previously memorized portions
