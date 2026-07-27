@@ -14,13 +14,17 @@ Live at [tasmi.cloud](https://tasmi.cloud).
 
 ---
 
-## Features
+## Built for the Quran Foundation Hackathon
 
-- **Seven-stage memorization challenges** that take a new portion from first read to long-term retention
-- **Anki-style review deck** for spaced revision of previously memorized portions
-- **Bookmarks, streaks, and goals** synced through Quran Foundation user APIs
-- **Works across devices**: your progress follows your Quran Foundation account
-- **Privacy-first**: no audio recording, no analytics tracking, no ads
+Tasmi is built for the [Quran Foundation Hackathon](https://launch.provisioncapital.com/quran-hackathon), organized by Provision Launch in partnership with Quran Foundation for Ramadan 2026.
+
+The challenge: help people maintain their connection with the Quran after Ramadan ends. Tasmi takes the traditional discipline of *tasmi'*, reciting what you've memorized to a teacher, and turns it into a daily, self-directed practice you can sustain year-round.
+
+Tasmi placed **6th**, selected among the top 7 of 458 submissions from 52 countries.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tasmi-Memorize-Quran-Easily/.github/main/quran-hackathon.jpeg" alt="Quran Foundation Hackathon certificate — 6th place for Tasmi" width="600" />
+</p>
 
 ---
 
@@ -39,17 +43,13 @@ Live at [tasmi.cloud](https://tasmi.cloud).
 
 ---
 
-## Built for the Quran Foundation Hackathon
+## Features
 
-Tasmi is built for the [Quran Foundation Hackathon](https://launch.provisioncapital.com/quran-hackathon), organized by Provision Launch in partnership with Quran Foundation for Ramadan 2026.
-
-The challenge: help people maintain their connection with the Quran after Ramadan ends. Tasmi takes the traditional discipline of *tasmi'*, reciting what you've memorized to a teacher, and turns it into a daily, self-directed practice you can sustain year-round.
-
-Tasmi placed **6th**, selected among the top 7 of 458 submissions from 52 countries.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tasmi-Memorize-Quran-Easily/.github/main/quran-hackathon.jpeg" alt="Quran Foundation Hackathon certificate — 6th place for Tasmi" width="600" />
-</p>
+- **Seven-stage memorization challenges** that take a new portion from first read to long-term retention
+- **Anki-style review deck** for spaced revision of previously memorized portions
+- **Bookmarks, streaks, and goals** synced through Quran Foundation user APIs
+- **Works across devices**: your progress follows your Quran Foundation account
+- **Privacy-first**: no audio recording, no analytics tracking, no ads
 
 ---
 
