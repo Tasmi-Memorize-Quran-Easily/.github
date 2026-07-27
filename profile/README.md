@@ -45,6 +45,12 @@ Tasmi is built for the [Quran Foundation Hackathon](https://launch.provisioncapi
 
 The challenge: help people maintain their connection with the Quran after Ramadan ends. Tasmi takes the traditional discipline of *tasmi'*, reciting what you've memorized to a teacher, and turns it into a daily, self-directed practice you can sustain year-round.
 
+Tasmi placed **6th**, selected among the top 7 of 458 submissions from 52 countries.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tasmi-Memorize-Quran-Easily/.github/main/quran-hackathon.jpeg" alt="Quran Foundation Hackathon certificate — 6th place for Tasmi" width="600" />
+</p>
+
 ---
 
 ## The team
